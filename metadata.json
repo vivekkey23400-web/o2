@@ -1,0 +1,6 @@
+{
+  "name": "OxyCarbon Industries",
+  "description": "Premium industrial and medical oxygen and carbon dioxide manufacturing, processing, storage, and distribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
